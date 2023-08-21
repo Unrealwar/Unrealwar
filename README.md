@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Unrealwar
-- 👀 I’m interested in IT , JS, Java
-- 🌱 I’m currently learning JavaScript/ Vue.js / Gulp
+- 👀 I’m interested in IT , JS, Java, React.js/ 
+- 🌱 I’m currently learning JavaScript/ Vue.js / Gulp / React.js / Node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me send mea a message in telegram https://t.me/arteombursuc 
 
